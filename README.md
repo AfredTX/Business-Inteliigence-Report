@@ -1,2 +1,5 @@
 # Business-Inteliigence-Report
-This is a business intelligence report that I completed as my first capstone project in Thinkful's data analytic's program.
+This is a business intelligence report that I completed as my first capstone project in Thinkful's data analytic's program. The project involves using a data set provided by Lariat Rent-A-Car to make recommendations for the company's growth plans. The data includes information from all the company's rental transactions from the previous year, information regarding their fleet of cars, and some basic information regarding each of their domestic locations. 
+
+Over the course of the project, I cleaned and organized the data, merged the data provided into one comprehensive data set, observed trends in the data concerning vehicle type, customer use, location, and fleet size. I identified data that was relevant and irrelevant to the company's mission, and gave recommendations on how the company could optimize their growth in the future. The culmination of the project was a business intelligence report that I designed in PowerPoint in which I gave my recommendations and notd how the company could be more productive in their data wrangling and organization in the future.
+
